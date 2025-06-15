@@ -31,6 +31,48 @@ Este exercício lê dois números inteiros digitados pelo usuário, soma esses v
 
 ---
 
+### Em Breve - Novos Exercícios
+
+### 3. Média de Três Números
+
+Calcular a média aritmética de três números digitados pelo usuário.
+
+*Aprenda a usar operadores aritméticos, trabalhar com variáveis e imprimir resultados.*
+
+---
+
+### 4. Verificar Número Par ou Ímpar
+
+Receber um número e dizer se ele é par ou ímpar.
+
+*Aprenda a usar o operador módulo `%` e estruturas condicionais `if`.*
+
+---
+
+### 5. Calculadora Simples
+
+Fazer uma calculadora que recebe dois números e o tipo de operação (+, -, *, /) e retorna o resultado.
+
+*Aprenda a usar condicionais múltiplas e operadores básicos.*
+
+---
+
+### 6. Contador de Números Positivos e Negativos
+
+Ler uma sequência de números e contar quantos são positivos e quantos são negativos.
+
+*Aprenda a usar loops e condicionais.*
+
+---
+
+### 7. Tabuada
+
+Mostrar a tabuada de um número informado pelo usuário.
+
+*Aprenda a usar loops `for` para repetição.*
+
+---
+
 ### Nível: Básico
 
-Estes exercícios são indicados para quem está começando na programação e quer entender os conceitos fundamentais de entrada, saída e operações simples.
+Estes exercícios são indicados para quem está começando na programação e quer entender os conceitos fundamentais de entrada, saída, condições e repetição.
