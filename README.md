@@ -41,11 +41,7 @@ Calcular a média aritmética de três números digitados pelo usuário.
 
 ---
 
-### 4. Verificar Número Par ou Ímpar
-
-Receber um número e dizer se ele é par ou ímpar.
-
-*Aprenda a usar o operador módulo `%` e estruturas condicionais `if`.*
+### 4. indefinido
 
 ---
 
