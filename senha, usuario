@@ -1,0 +1,36 @@
+#include <stdio.h>
+#include <string.h>
+
+// exercicio "???"
+
+int main () {
+    int confirma[100];
+    char usuario[20];
+    char senha[100];
+
+    printf("Digite seu nome");
+    fgets(usuario, sizeof(usuario), stdin);
+
+    printf("Digite sua senha");
+    fgets(usuario, sizeof(usuario), stdin);
+
+    printf("confirme sua senha");
+    fgets(confirma, sizeof(usuario), stdin);
+
+    // uso de strcspn para lidar com "\n" ***fgets***
+
+    senha[strcspn(senha, "\n") ] = 0;
+    confirma[strcspn(confirma, "\n") ] = 0;
+
+    if(strcmp(usuario, usuario) == 0 ) {
+        printf("senha correta");
+
+    } else {
+
+        printf("senha incorreta");
+
+    } 
+    
+    return 0;
+
+}
