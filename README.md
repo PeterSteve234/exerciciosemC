@@ -41,7 +41,10 @@ Calcular a média aritmética de três números digitados pelo usuário.
 
 ---
 
-### 4. indefinido
+### 4. Array
+uma forma otima de fazer um percurso dentro de um array é usando for ou while, while para forma indefinida e o for para forma controlada 
+array são muito bons para você encontrar informações de uma variavel e usá-lá ate para tarefas automaticas.
+
 
 ---
 
