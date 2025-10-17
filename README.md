@@ -72,6 +72,9 @@ Mostrar a tabuada de um número informado pelo usuário.
 
 ---
 
+### 8. Structs
+
+
 ### Nível: Básico/Júnior
 
 
