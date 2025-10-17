@@ -72,6 +72,7 @@ Mostrar a tabuada de um número informado pelo usuário.
 
 ---
 
-### Nível: Básico
+### Nível: Básico/Júnior
+
 
 Estes exercícios são indicados para quem está começando na programação e quer entender os conceitos fundamentais de entrada, saída, condições e repetição.
